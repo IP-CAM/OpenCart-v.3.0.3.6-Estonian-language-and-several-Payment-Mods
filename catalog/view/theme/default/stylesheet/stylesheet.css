@@ -193,8 +193,8 @@ div.required .control-label:before {
 /* menu */
 #menu {
 	min-height: 40px;
-	border-top: 1px solid;
-	border-bottom: 1px solid;
+	border-top: 1px solid #d6d6d6;
+	border-bottom: 1px solid #d6d6d6;
 	border-radius: 0;
 	-webkit-border-radius: 0;
 	-moz-border-radius: 0;
@@ -342,7 +342,7 @@ footer h5 {
 .breadcrumb {
 	margin: 0 0 20px 0;
 	padding: 8px 0;
-	border: 1px solid #ddd;
+	background: none;
 }
 .breadcrumb i {
 	font-size: 15px;
@@ -361,10 +361,10 @@ footer h5 {
 	content: '';
 	display: block;
 	position: absolute;
-	top: -3px;
-	right: -5px;
-	width: 26px;
-	height: 26px;
+	top: 6px;
+	right: 0px;
+	width: 10px;
+	height: 10px;
 	border-right: 1px solid #DDD;
 	border-bottom: 1px solid #DDD;
 	-webkit-transform: rotate(-45deg);
@@ -756,6 +756,10 @@ h2.price {
 	border: none;
 	box-shadow: none;
 	color: #000000;
+	padding: 0;
+	display: flex;
+	flex-direction: row;
+	align-items: flex-end;
 }
 .btn-cart span{
 	color: #111111;
@@ -783,4 +787,20 @@ h2.price {
 }
 .logo-pay-icon{
     padding: 0 10px;	
+}
+.right-block-item{
+	display: flex;
+	flex-direction: row;
+}
+.right-block-item ul{
+	list-style: none;
+	padding-left: 5px;
+}
+.right-block-item ul li a{
+	color: #999;
+}
+.header-right-block{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
 }
