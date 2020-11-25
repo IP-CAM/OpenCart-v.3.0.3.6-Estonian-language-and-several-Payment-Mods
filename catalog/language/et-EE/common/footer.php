@@ -15,5 +15,4 @@ $_['text_account']      = 'Minu konto';
 $_['text_order']        = 'Tellimuste ajalugu';
 $_['text_wishlist']     = 'Teie oovide nimekiri';
 $_['text_newsletter']   = 'Uudiskiri';
-$_['text_powered']      = 'Powered By <a href="http://www.opencart.com">OpenCart</a><br /> %s &copy; %s
-';
+$_['text_powered']      = '© 2020 ARTFLORA – flowers for a reason or just because!';
