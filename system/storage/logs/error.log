@@ -15,3 +15,4 @@
 2020-11-24 16:00:06 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Applications/MAMP/htdocs/artflora/system/library/db/mysqli.php on line 10
 2020-11-24 16:00:15 - PHP Notice:  Undefined property: stdClass::$payment_link in /Applications/MAMP/htdocs/artflora/catalog/controller/extension/payment/everypay.php on line 81
 2020-11-24 16:01:01 - PHP Notice:  Undefined property: stdClass::$payment_link in /Applications/MAMP/htdocs/artflora/catalog/controller/extension/payment/everypay.php on line 81
+2020-11-25 8:19:24 - PHP Warning:  sprintf(): Too few arguments in /Applications/MAMP/htdocs/artflora/catalog/controller/common/cart.php on line 50

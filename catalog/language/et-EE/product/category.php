@@ -22,3 +22,4 @@ $_['text_rating_desc']  = 'Hinne (kõrgeim)';
 $_['text_model_asc']    = 'Mudel (A - Z)';
 $_['text_model_desc']   = 'Mudel (Z - A)';
 $_['text_limit']        = 'Näita:';
+$_['text_name_prise']   = 'Auhind:';
