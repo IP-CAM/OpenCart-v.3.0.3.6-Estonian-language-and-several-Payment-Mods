@@ -27,3 +27,10 @@
 2020-11-25 12:07:09 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Applications/MAMP/htdocs/artflora/system/library/db/mysqli.php on line 10
 2020-11-25 12:07:09 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Applications/MAMP/htdocs/artflora/system/library/db/mysqli.php on line 10
 2020-11-25 12:07:17 - PHP Notice:  Undefined property: stdClass::$payment_link in /Applications/MAMP/htdocs/artflora/catalog/controller/extension/payment/everypay.php on line 81
+2020-11-26 8:33:53 - PHP Warning:  sprintf(): Too few arguments in /Applications/MAMP/htdocs/artflora/catalog/controller/checkout/cart.php on line 472
+2020-11-26 8:33:56 - PHP Warning:  sprintf(): Too few arguments in /Applications/MAMP/htdocs/artflora/catalog/controller/checkout/cart.php on line 472
+2020-11-26 9:29:43 - PHP Warning:  mysqli::__construct(): MySQL server has gone away in /Applications/MAMP/htdocs/artflora/system/library/db/mysqli.php on line 7
+2020-11-26 9:29:43 - PHP Warning:  mysqli::__construct(): Error while reading greeting packet. PID=58187 in /Applications/MAMP/htdocs/artflora/system/library/db/mysqli.php on line 7
+2020-11-26 9:29:43 - PHP Warning:  mysqli::__construct(): (HY000/2006): MySQL server has gone away in /Applications/MAMP/htdocs/artflora/system/library/db/mysqli.php on line 7
+2020-11-26 9:29:43 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Applications/MAMP/htdocs/artflora/system/library/db/mysqli.php on line 10
+2020-11-26 9:29:43 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /Applications/MAMP/htdocs/artflora/system/library/db/mysqli.php on line 10
