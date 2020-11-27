@@ -69,14 +69,14 @@
   </nav>
   <div class="container">
     <div class="row">
-      <div class="col-sm-3">
+      <div class="col-sm-3 col-xs-6">
         <div id="logo">
           <a href="{{ home }}"><img src="image/catalog/logo-art.svg" title="{{ name }}" alt="{{ name }}" class="img-responsive" /></a>
           <span>flowers for a reason or just because!</span>
         </div>
       </div>
-      <div class="col-sm-6">{{ search }}</div>
-      <div class="col-sm-3">
+      <div class="col-sm-6 hidden-xs">{{ search }}</div>
+      <div class="col-sm-3 col-xs-6">
         <div class="header-right-block">
           <div class="right-block-item">
             <a href="{{ account }}" title="{{ text_account }}" class=" " >
@@ -94,6 +94,9 @@
           </div>
           <div class="right-block-item">
             {{ cart }}
+          </div>
+          <div class="right-block-item">
+            <button type="button" class="btn btn-navbar navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse"><i class="fa fa-bars"></i></button>
           </div>
         </div>
         
