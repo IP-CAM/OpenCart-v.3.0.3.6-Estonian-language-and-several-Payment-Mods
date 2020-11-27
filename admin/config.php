@@ -28,7 +28,7 @@ define('DB_DRIVER', 'mysqli');
 define('DB_HOSTNAME', 'localhost');
 define('DB_USERNAME', 'artfloraphp');
 define('DB_PASSWORD', 'password');
-define('DB_DATABASE', 'artfloraphp');
+define('DB_DATABASE', 'artfloraphpp');
 define('DB_PORT', '3306');
 define('DB_PREFIX', 'oc_');
 
