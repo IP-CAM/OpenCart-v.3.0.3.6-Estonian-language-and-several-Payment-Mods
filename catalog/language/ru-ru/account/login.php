@@ -3,7 +3,7 @@
 $_['heading_title']                = 'Авторизация';
 
 // Text
-$_['text_account']                 = 'Личный Кабинет';
+$_['text_account']                 = 'Мой аккаунт';
 $_['text_login']                   = 'Авторизация';
 $_['text_new_customer']            = 'Новый клиент';
 $_['text_register']                = 'Регистрация';
