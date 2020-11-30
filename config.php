@@ -1,14 +1,14 @@
 <?php
 // HTTP
-define('HTTP_SERVER', 'http://localhost:8888/artflora/');
+define('HTTP_SERVER', 'http://178.62.191.143:3003/');
 
 // HTTPS
-define('HTTPS_SERVER', 'http://localhost:8888/artflora/');
+define('HTTPS_SERVER', 'http://178.62.191.143:3003/');
 
 // DIR
-define('DIR_APPLICATION', '/Applications/MAMP/htdocs/artflora/catalog/');
-define('DIR_SYSTEM', '/Applications/MAMP/htdocs/artflora/system/');
-define('DIR_IMAGE', '/Applications/MAMP/htdocs/artflora/image/');
+define('DIR_APPLICATION', '/opt/artflora-php/opencart/catalog/');
+define('DIR_SYSTEM', '/opt/artflora-php/opencart/system/');
+define('DIR_IMAGE', '/opt/artflora-php/opencart/image/');
 define('DIR_STORAGE', DIR_SYSTEM . 'storage/');
 define('DIR_LANGUAGE', DIR_APPLICATION . 'language/');
 define('DIR_TEMPLATE', DIR_APPLICATION . 'view/theme/');
@@ -23,8 +23,8 @@ define('DIR_UPLOAD', DIR_STORAGE . 'upload/');
 // DB
 define('DB_DRIVER', 'mysqli');
 define('DB_HOSTNAME', 'localhost');
-define('DB_USERNAME', 'artflora');
-define('DB_PASSWORD', 'MYpass24');
-define('DB_DATABASE', 'artflora');
+define('DB_USERNAME', 'artfloraphp');
+define('DB_PASSWORD', 'password');
+define('DB_DATABASE', 'artfloraphpp');
 define('DB_PORT', '3306');
 define('DB_PREFIX', 'oc_');
