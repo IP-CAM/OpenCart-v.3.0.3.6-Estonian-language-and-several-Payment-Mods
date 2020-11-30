@@ -6,7 +6,7 @@ $_['heading_title']    = 'Ostukorv';
 $_['text_success']     = 'Olete lisanud <a href="%s">%s</a> oma <a href="%s"> ostukorvi </a>!';
 $_['text_remove']      = 'Õnnestus: Te muutsite oma ostusoovide nimekirja!';
 $_['text_login']       = 'Tähelepanu: Hindade nägemiseks peate <a href="%s">sisse logima</a> või <a href="%s">looma uue kasutaja</a>!';
-$_['text_items']       = '%s toode(t) - %s';
+$_['text_items']       = 'toode(t) - %s';
 $_['text_points']      = 'Preemiapunktid: %s';
 $_['text_next']        = 'Mida te sooviksite teha järgmisena?';
 $_['text_next_choice'] = 'Choose if you have a discount code or reward points you want to use or would like to estimate your delivery cost.';

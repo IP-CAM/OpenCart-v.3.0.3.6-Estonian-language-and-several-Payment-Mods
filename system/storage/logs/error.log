@@ -355,3 +355,15 @@
 2020-11-30 11:07:43 - PHP Notice:  Undefined index: lastname in /Applications/MAMP/htdocs/artflora/catalog/model/checkout/order.php on line 4
 2020-11-30 11:07:44 - PHP Notice:  Undefined property: stdClass::$payment_link in /Applications/MAMP/htdocs/artflora/catalog/controller/extension/payment/everypay.php on line 81
 2020-11-30 11:10:05 - PHP Notice:  Undefined property: stdClass::$payment_link in /Applications/MAMP/htdocs/artflora/catalog/controller/extension/payment/everypay.php on line 81
+2020-11-30 12:59:26 - PHP Warning:  sprintf(): Too few arguments in /Applications/MAMP/htdocs/artflora/catalog/controller/checkout/cart.php on line 373
+2020-11-30 12:59:29 - PHP Warning:  sprintf(): Too few arguments in /Applications/MAMP/htdocs/artflora/catalog/controller/checkout/cart.php on line 373
+2020-11-30 12:59:51 - PHP Warning:  sprintf(): Too few arguments in /Applications/MAMP/htdocs/artflora/catalog/controller/checkout/cart.php on line 373
+2020-11-30 13:00:09 - PHP Warning:  sprintf(): Too few arguments in /Applications/MAMP/htdocs/artflora/catalog/controller/checkout/cart.php on line 473
+2020-11-30 13:00:30 - PHP Warning:  sprintf(): Too few arguments in /Applications/MAMP/htdocs/artflora/catalog/controller/checkout/cart.php on line 473
+2020-11-30 13:01:31 - PHP Warning:  sprintf(): Too few arguments in /Applications/MAMP/htdocs/artflora/catalog/controller/checkout/cart.php on line 373
+2020-11-30 13:02:23 - PHP Warning:  sprintf(): Too few arguments in /Applications/MAMP/htdocs/artflora/catalog/controller/checkout/cart.php on line 373
+2020-11-30 13:03:14 - PHP Notice:  Undefined property: stdClass::$payment_link in /Applications/MAMP/htdocs/artflora/catalog/controller/extension/payment/everypay.php on line 81
+2020-11-30 13:03:36 - PHP Warning:  sprintf(): Too few arguments in /Applications/MAMP/htdocs/artflora/catalog/controller/checkout/cart.php on line 373
+2020-11-30 13:05:58 - PHP Warning:  sprintf(): Too few arguments in /Applications/MAMP/htdocs/artflora/catalog/controller/checkout/cart.php on line 373
+2020-11-30 13:07:46 - PHP Warning:  sprintf(): Too few arguments in /Applications/MAMP/htdocs/artflora/catalog/controller/checkout/cart.php on line 373
+2020-11-30 14:19:07 - PHP Notice:  Undefined property: stdClass::$payment_link in /Applications/MAMP/htdocs/artflora/catalog/controller/extension/payment/everypay.php on line 81
