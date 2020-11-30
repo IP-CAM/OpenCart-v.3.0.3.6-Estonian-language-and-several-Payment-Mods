@@ -72,3 +72,12 @@
 =======
 >>>>>>> 0614ce036b344747c567cca9e650b2d214bf7512
 >>>>>>> ece3f0e28e03f25ee8e25da21134ceb603fdbd5f
+2020-11-27 15:43:24 - PHP Warning:  imagejpeg(/opt/artflora-php/artflora/image/cache/catalog/15/151-500x500.jpg): failed to open stream: Permission denied in /opt/artflora-php/artflora/system/library/image.php on line 121
+2020-11-27 15:43:24 - PHP Warning:  imagejpeg(/opt/artflora-php/artflora/image/cache/catalog/15/152-500x500.jpg): failed to open stream: Permission denied in /opt/artflora-php/artflora/system/library/image.php on line 121
+2020-11-27 15:43:24 - PHP Warning:  imagejpeg(/opt/artflora-php/artflora/image/cache/catalog/15/152-74x74.jpg): failed to open stream: Permission denied in /opt/artflora-php/artflora/system/library/image.php on line 121
+2020-11-27 15:43:28 - PHP Warning:  imagejpeg(/opt/artflora-php/artflora/image/cache/catalog/15/151-500x500.jpg): failed to open stream: Permission denied in /opt/artflora-php/artflora/system/library/image.php on line 121
+2020-11-27 15:43:28 - PHP Warning:  imagejpeg(/opt/artflora-php/artflora/image/cache/catalog/15/152-500x500.jpg): failed to open stream: Permission denied in /opt/artflora-php/artflora/system/library/image.php on line 121
+2020-11-27 15:43:28 - PHP Warning:  imagejpeg(/opt/artflora-php/artflora/image/cache/catalog/15/152-74x74.jpg): failed to open stream: Permission denied in /opt/artflora-php/artflora/system/library/image.php on line 121
+2020-11-27 15:43:38 - PHP Warning:  imagejpeg(/opt/artflora-php/artflora/image/cache/catalog/15/151-500x500.jpg): failed to open stream: Permission denied in /opt/artflora-php/artflora/system/library/image.php on line 121
+2020-11-27 15:43:38 - PHP Warning:  imagejpeg(/opt/artflora-php/artflora/image/cache/catalog/15/152-500x500.jpg): failed to open stream: Permission denied in /opt/artflora-php/artflora/system/library/image.php on line 121
+2020-11-27 15:43:38 - PHP Warning:  imagejpeg(/opt/artflora-php/artflora/image/cache/catalog/15/152-74x74.jpg): failed to open stream: Permission denied in /opt/artflora-php/artflora/system/library/image.php on line 121
