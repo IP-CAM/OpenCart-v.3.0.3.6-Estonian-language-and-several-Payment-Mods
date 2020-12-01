@@ -355,15 +355,25 @@
 2020-11-30 11:07:43 - PHP Notice:  Undefined index: lastname in /Applications/MAMP/htdocs/artflora/catalog/model/checkout/order.php on line 4
 2020-11-30 11:07:44 - PHP Notice:  Undefined property: stdClass::$payment_link in /Applications/MAMP/htdocs/artflora/catalog/controller/extension/payment/everypay.php on line 81
 2020-11-30 11:10:05 - PHP Notice:  Undefined property: stdClass::$payment_link in /Applications/MAMP/htdocs/artflora/catalog/controller/extension/payment/everypay.php on line 81
-2020-11-30 12:59:26 - PHP Warning:  sprintf(): Too few arguments in /Applications/MAMP/htdocs/artflora/catalog/controller/checkout/cart.php on line 373
-2020-11-30 12:59:29 - PHP Warning:  sprintf(): Too few arguments in /Applications/MAMP/htdocs/artflora/catalog/controller/checkout/cart.php on line 373
-2020-11-30 12:59:51 - PHP Warning:  sprintf(): Too few arguments in /Applications/MAMP/htdocs/artflora/catalog/controller/checkout/cart.php on line 373
-2020-11-30 13:00:09 - PHP Warning:  sprintf(): Too few arguments in /Applications/MAMP/htdocs/artflora/catalog/controller/checkout/cart.php on line 473
-2020-11-30 13:00:30 - PHP Warning:  sprintf(): Too few arguments in /Applications/MAMP/htdocs/artflora/catalog/controller/checkout/cart.php on line 473
-2020-11-30 13:01:31 - PHP Warning:  sprintf(): Too few arguments in /Applications/MAMP/htdocs/artflora/catalog/controller/checkout/cart.php on line 373
-2020-11-30 13:02:23 - PHP Warning:  sprintf(): Too few arguments in /Applications/MAMP/htdocs/artflora/catalog/controller/checkout/cart.php on line 373
-2020-11-30 13:03:14 - PHP Notice:  Undefined property: stdClass::$payment_link in /Applications/MAMP/htdocs/artflora/catalog/controller/extension/payment/everypay.php on line 81
-2020-11-30 13:03:36 - PHP Warning:  sprintf(): Too few arguments in /Applications/MAMP/htdocs/artflora/catalog/controller/checkout/cart.php on line 373
-2020-11-30 13:05:58 - PHP Warning:  sprintf(): Too few arguments in /Applications/MAMP/htdocs/artflora/catalog/controller/checkout/cart.php on line 373
-2020-11-30 13:07:46 - PHP Warning:  sprintf(): Too few arguments in /Applications/MAMP/htdocs/artflora/catalog/controller/checkout/cart.php on line 373
-2020-11-30 14:19:07 - PHP Notice:  Undefined property: stdClass::$payment_link in /Applications/MAMP/htdocs/artflora/catalog/controller/extension/payment/everypay.php on line 81
+2020-12-01 10:36:31 - PHP Warning:  sprintf(): Too few arguments in /Applications/MAMP/htdocs/artflora/catalog/controller/checkout/cart.php on line 373
+2020-12-01 10:36:43 - PHP Warning:  sprintf(): Too few arguments in /Applications/MAMP/htdocs/artflora/catalog/controller/checkout/cart.php on line 373
+2020-12-01 10:50:38 - PHP Notice:  Undefined index: lastname in /Applications/MAMP/htdocs/artflora/catalog/controller/checkout/confirm.php on line 140
+2020-12-01 10:50:38 - PHP Notice:  Undefined index: company in /Applications/MAMP/htdocs/artflora/catalog/controller/checkout/confirm.php on line 141
+2020-12-01 10:50:38 - PHP Notice:  Undefined index: address_2 in /Applications/MAMP/htdocs/artflora/catalog/controller/checkout/confirm.php on line 143
+2020-12-01 10:50:38 - PHP Notice:  Undefined index: city in /Applications/MAMP/htdocs/artflora/catalog/controller/checkout/confirm.php on line 144
+2020-12-01 10:50:38 - PHP Notice:  Undefined index: postcode in /Applications/MAMP/htdocs/artflora/catalog/controller/checkout/confirm.php on line 145
+2020-12-01 10:50:38 - PHP Notice:  Undefined index: lastname in /Applications/MAMP/htdocs/artflora/catalog/controller/checkout/confirm.php on line 167
+2020-12-01 10:50:38 - PHP Notice:  Undefined index: company in /Applications/MAMP/htdocs/artflora/catalog/controller/checkout/confirm.php on line 168
+2020-12-01 10:50:38 - PHP Notice:  Undefined index: address_2 in /Applications/MAMP/htdocs/artflora/catalog/controller/checkout/confirm.php on line 170
+2020-12-01 10:50:38 - PHP Notice:  Undefined index: city in /Applications/MAMP/htdocs/artflora/catalog/controller/checkout/confirm.php on line 171
+2020-12-01 10:50:38 - PHP Notice:  Undefined index: postcode in /Applications/MAMP/htdocs/artflora/catalog/controller/checkout/confirm.php on line 172
+2020-12-01 10:55:09 - PHP Notice:  Undefined index: lastname in /Applications/MAMP/htdocs/artflora/catalog/controller/checkout/confirm.php on line 140
+2020-12-01 10:55:09 - PHP Notice:  Undefined index: company in /Applications/MAMP/htdocs/artflora/catalog/controller/checkout/confirm.php on line 141
+2020-12-01 10:55:09 - PHP Notice:  Undefined index: address_2 in /Applications/MAMP/htdocs/artflora/catalog/controller/checkout/confirm.php on line 143
+2020-12-01 10:55:09 - PHP Notice:  Undefined index: city in /Applications/MAMP/htdocs/artflora/catalog/controller/checkout/confirm.php on line 144
+2020-12-01 10:55:09 - PHP Notice:  Undefined index: postcode in /Applications/MAMP/htdocs/artflora/catalog/controller/checkout/confirm.php on line 145
+2020-12-01 10:55:09 - PHP Notice:  Undefined index: lastname in /Applications/MAMP/htdocs/artflora/catalog/controller/checkout/confirm.php on line 167
+2020-12-01 10:55:09 - PHP Notice:  Undefined index: company in /Applications/MAMP/htdocs/artflora/catalog/controller/checkout/confirm.php on line 168
+2020-12-01 10:55:09 - PHP Notice:  Undefined index: address_2 in /Applications/MAMP/htdocs/artflora/catalog/controller/checkout/confirm.php on line 170
+2020-12-01 10:55:09 - PHP Notice:  Undefined index: city in /Applications/MAMP/htdocs/artflora/catalog/controller/checkout/confirm.php on line 171
+2020-12-01 10:55:09 - PHP Notice:  Undefined index: postcode in /Applications/MAMP/htdocs/artflora/catalog/controller/checkout/confirm.php on line 172
